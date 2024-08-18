@@ -60,7 +60,7 @@ The model consists of a series of convolutional and max-pooling layers followed 
 
 ## Training
 
-The model is trained using the CIFAR-10 training set. The images are normalized by scaling the pixel values to the range [0, 1]. The model is compiled with the Adam optimizer and trained for 10 epochs using the sparse categorical cross-entropy loss function.
+The model is trained using the CIFAR-10 training set. The images are normalised by scaling the pixel values to the range [0, 1]. The model is compiled with the Adam optimiser and trained for 10 epochs using the sparse categorical cross-entropy loss function.
 
 To train the model, run:
 
