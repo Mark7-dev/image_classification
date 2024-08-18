@@ -31,7 +31,6 @@ plt.show()
 # convolutional layer filters for features in an image.
 # For example, it will look at okay a horse has long legs
 # whereas a cat has pointy ears
-
 # The maxpooling then removes features of an image to its essential parts
 
 # model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
@@ -46,7 +45,7 @@ plt.show()
 #
 # model.save('model.classifier.model')
 
-model = models.load_model('/Users/mark/PycharmProjects/image_classification/model.classifier.keras')
+model = models.load_model('/Users/yourname/PycharmProjects/image_classification/model.classifier.keras')
 
 img = cv.imread('horse.jpg')
 img = cv.cvtColor(img, cv.COLOR_BGR2RGB)
