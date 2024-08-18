@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ccfe282-1de7-443b-a47c-79bcfc485cdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/car.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/horse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plane.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -26,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -103,7 +102,7 @@
       <workItem from="1723418538648" duration="892000" />
       <workItem from="1723426245120" duration="1453000" />
       <workItem from="1723772038168" duration="602000" />
-      <workItem from="1723956499374" duration="2402000" />
+      <workItem from="1723956499374" duration="2653000" />
     </task>
     <servers />
   </component>
