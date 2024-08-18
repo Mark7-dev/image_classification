@@ -92,10 +92,6 @@ To load the saved model:
 model = models.load_model('image_classifier.model')
 ```
 
-## Contributing
+Bibliography:
 
-Contributions are welcome! Please open an issue or submit a pull request if you'd like to contribute to this project.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+https://www.youtube.com/watch?v=t0EzVCvQjGE
