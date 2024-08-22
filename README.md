@@ -10,8 +10,6 @@ This project is a basic image classifier built using the CIFAR-10 dataset and im
 - [Training](#training)
 - [Evaluation](#evaluation)
 - [Saving and Loading the Model](#saving-and-loading-the-model)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
